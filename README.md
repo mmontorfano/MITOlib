@@ -9,3 +9,18 @@ Las funciones generales de MITO incluyen:
 - Realización de análisis exploratorio de datos sin necesidad de escribir código.
 - Generación automática de código Python a partir de las modificaciones realizadas.
 - Utilización de inteligencia artificial para explorar y modificar dataframes.
+
+### Requerimientos
+
+- Python versión 3.6 o superior
+    - Puedes verificar la versión de python mediante ventana comando
+        ```sh
+         python --version
+         ```
+- Requiere instalar Anaconda con versión python 3.6 o superior
+    - Last release: https://www.anaconda.com/download
+- Requiere el uso de Jupyter Lab
+    - Puedes instalar JupyterLab mediante ventana comando
+        ```sh
+            pip install jupyterlab
+         ```
