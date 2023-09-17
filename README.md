@@ -19,8 +19,21 @@ Las funciones generales de MITO incluyen:
          ```
 - Requiere instalar Anaconda con versión python 3.6 o superior
     - Last release: https://www.anaconda.com/download
-- Requiere el uso de Jupyter Lab
+- Requiere el uso de Jupyter Lab 3.0 o superior
     - Puedes instalar JupyterLab mediante ventana comando
         ```sh
             pip install jupyterlab
          ```
+### Instalación
+
+Usaremos la opción de instalación en un entorno virtual Anaconda Navigator, esto para evitar conflicto con otras librerías instaladas.
+
+- Abrir Anaconda Navigator
+- Seleccionar Entornos (Environments) en el menú de la izquierda
+- Crear un nuevo entorno virtual con el botón "Create" en la zona inferior, lo llamaremos "MITOenv"
+- Una vez creado el entorno, cambie a Inicio y seleccione el entorno MITOenv que acaba de crear.
+- Luego de seleccionar el entorno, abrir Anaconda Prompt e instalar Mito con los siguientes comandos:
+
+        python -m pip install mitoinstaller
+        python -m mitoinstaller install
+        
