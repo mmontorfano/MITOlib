@@ -10,6 +10,8 @@ Las funciones generales de MITO incluyen:
 - Generación automática de código Python a partir de las modificaciones realizadas.
 - Utilización de inteligencia artificial para explorar y modificar dataframes.
 
+Documentación de la librería en https://docs.trymito.io/
+
 ### Requerimientos
 
 - Python versión 3.6 o superior
@@ -19,7 +21,7 @@ Las funciones generales de MITO incluyen:
          ```
 - Requiere instalar Anaconda con versión python 3.6 o superior
     - Last release: https://www.anaconda.com/download
-- Requiere el uso de Jupyter Lab 3.0 o superior
+- Requiere el uso de Jupyter Lab
     - Puedes instalar JupyterLab mediante ventana comando
         ```sh
             pip install jupyterlab
@@ -37,3 +39,24 @@ Usaremos la opción de instalación en un entorno virtual Anaconda Navigator, es
         python -m pip install mitoinstaller
         python -m mitoinstaller install
         
+### Ejemplo
+
+El ejemplo será utilizando dataset de kaggle de datos del Titanic. https://www.kaggle.com/datasets/brendan45774/test-file
+
+Las funciones que se desarrollarán son:
+- Importar datos
+- Gráficas en Mitosheets
+- Agrupar y filtrar
+- Estadísticas resumen
+- Cambios de formato de datos
+- Uso de IA para modificar dataframe
+- Entre otras funciones
+
+##### Importar datos
+
+
+##### Gráficas en Mitosheets
+##### Agrupar y filtrar
+##### Estadísticas resumen
+##### Cambios de formato de datos
+##### Uso de IA para modificar dataframe
