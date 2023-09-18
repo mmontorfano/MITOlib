@@ -52,6 +52,16 @@ Las funciones que se desarrollarán son:
 - Uso de IA para modificar dataframe
 - Entre otras funciones
 
+Para ejecutar una hoja MitoSheets en jupyter Lab se utilizan las siguientes líneas:
+        ```sh
+            import mitosheet
+            mitosheet.sheet()
+         ```
+
+
 Al ser una herramienta gráfica de manejo de dataset, se genera código a medida que se va utilizando la librería, como resumen se entrega el código final de las modificaciones realizadas que se puede ver en el video adjunto.
+
+Encontrarán código ejemplo  en la carpeta MITO_Titanic.ipynb
+
 
 .-
