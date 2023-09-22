@@ -12,6 +12,20 @@ Las funciones generales de MITO incluyen:
 
 Documentación de la librería en https://docs.trymito.io/
 
+### Objetivo
+
+El propósito de esta explicación sobre esta librería es introducir una herramienta novedosa e innovadora que simplifica la gestión, limpieza y análisis exploratorio de datos, labores a las que con frecuencia se enfrentan los científicos de datos.
+
+Mediante el empleo de esta librería, es posible obtener un conjunto de datos depurado y explorado. Esto se logra a través de un proceso interactivo con una secuencia de instrucciones que simplifica la ejecución de tareas sin requerir la programación de códigos.
+
+### Conceptos
+
+- Librería: Una librería en Python es como una colección de herramientas especializadas que los programadores pueden usar en sus proyectos. Estas herramientas ya están hechas y listas para usar, lo que ahorra mucho tiempo y esfuerzo en la programación. Por ejemplo, si necesitas hacer cálculos matemáticos complicados, puedes usar una librería que ya tiene esas funciones listas. Es como tener un conjunto de herramientas listas para diferentes tipos de trabajo, pero en el mundo de la programación.
+  
+- Entorno virtual: Un entorno virtual en Python es como un espacio aislado donde puedes instalar y usar diferentes versiones de Python y sus bibliotecas para cada proyecto que estés trabajando. Esto es muy útil cuando tienes varios proyectos en curso y cada uno requiere configuraciones específicas. Imagina tener compartimentos separados para distintas herramientas, de esta manera cada proyecto tiene su propio espacio y no hay confusiones. Esto garantiza que un proyecto funcione de la misma manera sin importar en qué computadora se ejecute.
+  
+- Ventana de comandos: La ventana de comandos es como una herramienta de texto en la computadora donde puedes dar instrucciones directas al sistema operativo. En vez de usar clics de ratón, escribes comandos para hacer cosas como abrir programas, moverte por archivos o ejecutar programas.
+  
 ### Requerimientos
 
 - Python versión 3.6 o superior
