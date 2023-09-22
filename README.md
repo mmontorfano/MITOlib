@@ -21,7 +21,7 @@ Documentación de la librería en https://docs.trymito.io/
          ```
 - Requiere instalar Anaconda con versión python 3.6 o superior
     - Last release: https://www.anaconda.com/download
-- Requiere el uso de Jupyter Lab
+- Requiere el uso de Jupyter Lab 3.0 o superior
     - Puedes instalar JupyterLab mediante ventana comando
         ```sh
             pip install jupyterlab
